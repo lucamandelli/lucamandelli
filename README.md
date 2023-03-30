@@ -6,7 +6,8 @@
 
 ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaMandelli&show_icons=true&theme=tokyonight)
 
-I am a 21-year-old **Software Engineer Intern** at [Poatek](https://poatek.com/) with two months of experience. I'm passionate about FullStack development and constantly learning new technologies. I'm currently studying **Software Engineering** at PUCRS.
+I am a 21-year-old **Software Engineer Intern** at [<img src="https://poatek.com/wp-content/uploads/2023/01/01-Logo-Poatek-Principal-1.png" width="70" alt="Poatek">](https://poatek.com/) with two months of experience. I'm passionate about FullStack development and constantly learning new technologies. I'm currently studying **Software Engineering** at PUCRS.
+
 
 ## 🔧 Technologies & Skills
 
