@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Luca Mandelli!
 
 ![Age: 22](https://img.shields.io/badge/Age-22-blue)
-![Software Engineer Intern](https://img.shields.io/badge/Software%20Engineer%20Intern-Poatek-orange)
+![Software Engineer](https://img.shields.io/badge/Software%20Engineer%20Intern-Poatek-orange)
 ![Studying Software Engineering at PUCRS](https://img.shields.io/badge/Studying%20Software%20Engineering-PUCRS-green)
 
 ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaMandelli&show_icons=true&theme=tokyonight)
