@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Luca Mandelli!
 
-![Age: 22](https://img.shields.io/badge/Age-22-blue)
-![Software Engineer](https://img.shields.io/badge/Software%20Engineer%20Intern-Poatek-orange)
+![Age: 23](https://img.shields.io/badge/Age-23-blue)
+![Software Engineer](https://img.shields.io/badge/Software%20Engineer%20-Poatek-orange)
 ![Studying Software Engineering at PUCRS](https://img.shields.io/badge/Studying%20Software%20Engineering-PUCRS-green)
 
 ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaMandelli&show_icons=true&theme=tokyonight)
 
-I am a 22-year-old **Software Engineer Intern** at [<img src="https://poatek.com/wp-content/uploads/2023/01/01-Logo-Poatek-Principal-1.png" width="70" alt="Poatek">](https://poatek.com/). I'm passionate about FullStack development and constantly learning new technologies. I'm currently studying **Software Engineering** at PUCRS.
+I am a 23-year-old **Software Engineer** at [<img src="https://static.wixstatic.com/media/ed5aed_6ac8d96ff09448abaaa365a0c3991800~mv2.png/v1/fill/w_153,h_37,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Poatek%20%2B%20TI-01.png" width="70" alt="Poatek">](https://poatek.com/). I'm passionate about FullStack development and constantly learning new technologies. I'm currently studying **Software Engineering** at PUCRS.
 
 
 ## 🔧 Technologies & Skills
