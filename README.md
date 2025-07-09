@@ -1,9 +1,7 @@
 # 👋 Hey, I'm Luca Mandelli
 
-![Age: 24](https://img.shields.io/badge/Age-24-blue)  
-![Software Engineer at Telus Digital](https://img.shields.io/badge/Software%20Engineer-TelusDigital-orange)  
-![Software Engineering @ PUCRS](https://img.shields.io/badge/Software%20Engineering-PUCRS-green)
-
+![Age: 24](https://img.shields.io/badge/Age-24-blue) ![Software Engineer at Telus Digital](https://img.shields.io/badge/Software%20Engineer-TelusDigital-orange) ![Software Engineering @ PUCRS](https://img.shields.io/badge/Software%20Engineering-PUCRS-green)
+ 
 I’m a 24‑year‑old full‑stack engineer at Telus Digital, studying Software Engineering at PUCRS. I build clean, scalable web apps and APIs, and I enjoy blending frontend, backend, and DevOps in my projects.
 
 ## 🔧 Tech Stack
