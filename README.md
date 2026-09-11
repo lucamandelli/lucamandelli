@@ -19,8 +19,6 @@ I’m a 25‑year‑old full‑stack engineer at Telus Digital, studying Softwar
 ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaMandelli&layout=compact&theme=tokyonight)](https://github.com/LucaMandelli)
-
 ## ⚡ What I Build
 
 - **Frontend**: apps with React & Next.js  
