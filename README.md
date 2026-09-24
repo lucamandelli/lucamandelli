@@ -10,10 +10,12 @@
 
 ```ts
 const luca = {
-  stack:     ["TypeScript", "React", "Node.js", "NestJS"],
-  data:      ["PostgreSQL", "MongoDB", "Redis"],
-  cloud:     ["AWS", "Docker", "GitHub Actions"],
-  ai:        ["Claude Code", "Anthropic API", "OpenAI API", "LLM agents"],
+  core:      ["TypeScript", "React", "Node.js", "NestJS"],
+  apis:      ["REST", "GraphQL", "WebSockets"],
+  data:      ["PostgreSQL", "MongoDB", "Redis", "DynamoDB"],
+  infra:     ["AWS", "Docker", "GitHub Actions", "Grafana"],
+  testing:   ["Jest", "Vitest", "Cypress", "Playwright"],
+  ai:        ["Claude Code", "Anthropic API", "OpenAI API"],
   exploring: ["agentic workflows", "MCP", "agent evals"],
   speaks:    ["Portuguese", "English"],
 }
